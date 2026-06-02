@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "90c26d7e-344a-44ea-aeae-3f1d11bdb469"
+      }
+    },
+    "android": {
+      "package": "com.dronecopilot.app"
+    }
+  }
+}
