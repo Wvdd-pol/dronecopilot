@@ -1,7 +1,9 @@
 // CREATED IN JAVASCRIPT / REACT (JSX SYNTAX)
 // IMPORTS
 import { useState, useEffect } from 'react'; 
-import { droneDatabase, type Drone } from './drones';
+//import { droneDatabase, type Drone } from './drones';
+import { droneDatabase } from './drones';
+import type { Drone } from './drones';
 import { logService, type FlightEntry, type WeatherData } from './services/logService';
 import { 
   Shield, ListRestart, MapPin, RefreshCw
